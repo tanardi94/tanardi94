@@ -7,7 +7,7 @@ Backend Engineer
 Data and Tech Enthusiast Fast Learner Big curiosity about something new and always eager to master it
 
 * 🌍  I'm based in Surabaya, Indonesia
-* ✉️  You can contact me at [tan,ardi94@gmail.com](mailto:tan,ardi94@gmail.com)
+* ✉️  You can contact me at [tan.ardi94@gmail.com](mailto:tan.ardi94@gmail.com)
 * 🚀  I'm currently working on [IDN Media](https://www.idn.media/)
 * 🧠  I'm learning Golang, Ruby, MERN Stack
 * 🤝  I'm open to collaborating on Interesting Projects or Freelance Web Development
